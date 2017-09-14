@@ -1,0 +1,10 @@
+com\farfetch\api\toggleservice\controllers\UrlMapping.class
+com\farfetch\api\toggleservice\services\ApplicationServiceImpl.class
+com\farfetch\api\toggleservice\controllers\ApplicationController.class
+com\farfetch\api\toggleservice\models\Application.class
+com\farfetch\api\toggleservice\models\Toggleable.class
+com\farfetch\api\toggleservice\controllers\UrlMapping$Shutdown.class
+com\farfetch\api\toggleservice\controllers\AuthController.class
+com\farfetch\api\toggleservice\configs\SwaggerConfig.class
+com\farfetch\api\toggleservice\ToggleServiceApplication.class
+com\farfetch\api\toggleservice\services\ApplicationService.class
